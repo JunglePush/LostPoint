@@ -1,1 +1,2 @@
-print("test")
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JunglePush/LostPoint/main/LFPLoader"))()
