@@ -6,4 +6,6 @@ wait(0.05)
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint/main/GameFolder'))()
 wait(0.05)
     --Load Added Games
-	loadstring(game:HttpGet('https://www.toptal.com/developers/hastebin/raw/lomifihuku'))()
+	loadstring(game:HttpGet('https://www.toptal.com/developers/hastebin/raw/jihezasoqu'))()
+	loadstring(game:HttpGet('https://www.toptal.com/developers/hastebin/raw/ijirihopab'))()
+	loadstring(game:HttpGet('https://www.toptal.com/developers/hastebin/raw/teyecakino'))()
