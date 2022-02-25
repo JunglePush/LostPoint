@@ -1,6 +1,6 @@
 
     --load mainui  
-    loadstring(game:HttpGet('https://www.toptal.com/developers/hastebin/raw/favudetetu'))()
+    loadstring(game:HttpGet('https://www.toptal.com/developers/hastebin/raw/pikutexawa'))()
 wait(0.05)
     --Load Game folder
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint/main/GameFolder'))()
