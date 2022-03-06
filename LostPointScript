@@ -1,11 +1,15 @@
+--load ui
+loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/UI'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/Checking'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/JOIN'))()
 
-    --load mainui  
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint/main/LPUiLoader'))()
+
 wait(0.05)
-    --Load Game folder
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint/main/GameFolder'))()
+--load game1
+loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/GameList1'))()
 wait(0.05)
-    --Load Added Games
-	loadstring(game:HttpGet('https://www.toptal.com/developers/hastebin/raw/jihezasoqu'))()
-	loadstring(game:HttpGet('https://www.toptal.com/developers/hastebin/raw/ijirihopab'))()
-	loadstring(game:HttpGet('https://www.toptal.com/developers/hastebin/raw/teyecakino'))()
+--load game2
+loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/GameList2'))()
+wait(0.05)
+--load game3
+loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/GameList3'))()
